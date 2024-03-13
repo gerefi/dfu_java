@@ -72,7 +72,6 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
-          branch: ${{ steps.extract_branch.outputs.branch }}
 
 
       - name: 1. Build Docker
@@ -110,4 +109,3 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
-          branch: ${{ steps.extract_branch.outputs.branch }}
