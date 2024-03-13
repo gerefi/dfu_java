@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 ############################################################################################
 # Hellen-One: A script to copy exported frame files from Kicad into project.
-# (c) andreika <prometheus.pcb@gmail.com>
+# (c) gerefi2 <prometheus.pcb@gmail.com>
 ############################################################################################
 
 import os, sys, errno

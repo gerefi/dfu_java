@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 ############################################################################################
 # Hellen-One: A board processing script.
-# (c) andreika <prometheus.pcb@gmail.com>
+# (c) gerefi2 <prometheus.pcb@gmail.com>
 ############################################################################################
 
 from __future__ import print_function

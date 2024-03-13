@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 ############################################################################################
 # Hellen-One: This generates the header file needed for the firmware (stored in 'generated').
-# (c) andreika <prometheus.pcb@gmail.com>
+# (c) gerefi2 <prometheus.pcb@gmail.com>
 ############################################################################################
 
 import csv, sys, re, datetime

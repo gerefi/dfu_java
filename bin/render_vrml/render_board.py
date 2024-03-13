@@ -3,7 +3,7 @@
 # Hellen-One: A board rendering server script.
 # Python 3.5+ is required.
 # Dependencies: Pillow
-# (c) andreika <prometheus.pcb@gmail.com>
+# (c) gerefi2 <prometheus.pcb@gmail.com>
 ############################################################################################
 
 import os, sys

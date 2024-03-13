@@ -2,7 +2,7 @@
 ############################################################################################
 # Hellen-One: A script to convert a Kicad module footprint (*.kicad_mod) to PCAD .LIA.
 # Needed by AD projects to use Kicad-created modules.
-# (c) andreika <prometheus.pcb@gmail.com>
+# (c) gerefi2 <prometheus.pcb@gmail.com>
 ############################################################################################
 
 import os, sys, errno

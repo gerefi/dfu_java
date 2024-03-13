@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 ############################################################################################
 # Hellen-One: A board rendering script.
-# (c) andreika <prometheus.pcb@gmail.com>
+# (c) gerefi2 <prometheus.pcb@gmail.com>
 ############################################################################################
 
 import os, sys
